@@ -1,2 +1,1 @@
-# suirp-2026
-SUIRP e-portfolio, summer 2026
+# SUIRP e-Portfolio, Summer 2026
