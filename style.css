@@ -1,0 +1,26 @@
+html {
+    background-color: aliceblue;
+}
+
+* {
+    font-family: 'Roboto Mono', monospace;
+    letter-spacing: 0.8px;
+    box-sizing: border-box;
+}
+
+h1, nav, footer {
+    text-align: center;
+}
+
+img {
+    display: block
+}
+
+.right-align {
+    float: right;
+}
+
+.byline-date {
+    font-size: 14px;
+    color: #9c9c9c;
+}
