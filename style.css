@@ -10,10 +10,24 @@ html {
 
 h1, nav, footer {
     text-align: center;
+    margin: 15px;
+}
+
+body {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+p.post-body {
+    text-align: justify;
 }
 
 img {
-    display: block
+    display: block;
+}
+
+img.right-align {
+    margin-left: 10px;
 }
 
 .right-align {
