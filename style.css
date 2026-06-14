@@ -14,8 +14,12 @@ h1, nav, footer {
 }
 
 body {
-    max-width: 800px;
+    max-width: 600px;
     margin: 0 auto;
+}
+
+table tr th, table tr td {
+    border-color: #808080;
 }
 
 p.post-body {
