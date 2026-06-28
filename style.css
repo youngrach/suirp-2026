@@ -22,7 +22,7 @@ table tr th, table tr td {
     border-color: #808080;
 }
 
-p.post-body {
+.post-body {
     text-align: justify;
 }
 
