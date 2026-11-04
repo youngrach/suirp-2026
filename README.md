@@ -1,1 +1,4 @@
 # SUIRP e-Portfolio, Summer 2026
+I spent June and July this summer researching facioscapulohumeral muscular dystrophy (FSHD) and other neuromuscular diseases with Dr. Giorgio Tasca's group at the John Walton Muscular Dystrophy Research Centre ([JWMDRC](https://jwmdrc.org/)), based in Newcastle-upon-Tyne in northeast England. I learned and applied various bioinformatics techniques to characterize FSHD's transcriptomic profile compared to other inflammatory myopathies and other muscular dystrophies.
+
+Check out [https://youngrach.github.io/suirp-2026/](https://youngrach.github.io/suirp-2026/) to explore my experiences during this research abroad experience! Special thanks to the University of Florida's Summer Undergraduate International Research Program (SUIRP) for providing the funds, and to Dr. Elisabeth Barton for providing the introductions to make this opportunity possible for me.
